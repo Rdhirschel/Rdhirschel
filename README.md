@@ -4,7 +4,7 @@
 * I'm a high school student
 * I enjoy coding different things and learning while creating
 * Math and Science enjoyer
-* Fluent in Hebrew and English and a bit of German (~A2-B1)
+* Fluent in Hebrew, English and a bit of German (~A2-B1)
 
 <h2>Statistics and cool things</h2>
 <h2>Cool Projects Showcase</h2>
