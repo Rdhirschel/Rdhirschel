@@ -7,10 +7,12 @@
 
 ## Statistics and cool things
 
+
+
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Rdhirschel&show_icons=true&theme=dark"></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdhirschel&langs_count=6&layout=compact&theme=dark"></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdhirschel&langs_count=6&layout=compact&theme=dark&cache_seconds=1800"></td>
   </tr>
 </table>
 
