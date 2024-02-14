@@ -1,5 +1,6 @@
 # Hey, I'm Nir
-
+* I'm a high school student (11th Grade)
+* Fluent in Hebrew, English and a bit of German (~A2-B1)
 ## Statistics and cool things
 
 
