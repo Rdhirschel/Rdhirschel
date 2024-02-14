@@ -1,10 +1,5 @@
 # Hey, I'm Nir
 
-- I'm a high school student
-- I enjoy coding different things and learning while creating
-- Math and Science enjoyer
-- Fluent in Hebrew, English, and a bit of German (~A2-B1)
-
 ## Statistics and cool things
 
 
