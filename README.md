@@ -24,6 +24,8 @@
 ## Cool Projects Showcase
 - [**Theory Learning App**](https://github.com/Rdhirschel/Theory)
 - [**Sorting Algorithm Website**](https://github.com/Rdhirschel/Sorting-Algorithms-Website)
+- [**Useful Tools**](https://github.com/Rdhirschel/UsefulTools)
+- [**My 11th Grade Project**](https://github.com/Rdhirschel/11th-Grade-Project)
 
 ## Reach Out 👋
 
